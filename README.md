@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="your_cool_intro.gif" alt="Piyush Gautam Intro" width="600"/>
+</p>
+
+# 👋 Hi, I'm Piyush Gautam  
+### Business Analytics Enthusiast | Software Engineer | Data-Driven Problem Solver
+
+
 # 👋 Hi, I'm Piyush Gautam  
 ### Business Analytics Enthusiast | Software Engineer | Data-Driven Problem Solver
 
