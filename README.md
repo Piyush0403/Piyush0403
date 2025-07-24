@@ -1,10 +1,4 @@
-<p align="center">
-  <img src="your_cool_intro.gif" alt="Piyush Gautam Intro" width="600"/>
-</p>
-
-# 👋 Hi, I'm Piyush Gautam  
-### Business Analytics Enthusiast | Software Engineer | Data-Driven Problem Solver
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7B9CF7&width=435&lines=Hi%2C+I'm+Piyush+Gautam;Business+Analytics+Enthusiast+%7C+Data-Driven+Problem+Solver)](https://git.io/typing-svg)
 
 # 👋 Hi, I'm Piyush Gautam  
 ### Business Analytics Enthusiast | Software Engineer | Data-Driven Problem Solver
