@@ -31,11 +31,6 @@
 
 ---
 
-## ⚡ Fun Fact  
-My curiosity for trade & commerce started at **age 10** when I built my first stock portfolio. That curiosity now fuels my passion for analytics & technology.
-
----
-
 ### ✨ Let's Connect!  
 📧 **piyushgautam0499@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/piyushgautam04)
