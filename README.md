@@ -51,5 +51,3 @@ When I’m not working or studying, I love to **travel ✈️** and stay active 
 
 ---
 
-## ⚡ Fun Fact  
-My curiosity for trade & commerce started at **age 10** when I built my first stock portfolio. That curiosity now fuels my passion for analytics & technology.
