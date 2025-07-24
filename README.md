@@ -36,18 +36,3 @@ When I’m not working or studying, I love to **travel ✈️** and stay active 
 
 ---
 
-## 🛠 Languages and Tools  
-
-<p align="left"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>  
-<img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg" alt="salesforce" width="40" height="40"/>  
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Tableau_Logo.png" alt="tableau" width="40" height="40"/>  
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Power_bi_logo_black.svg" alt="powerbi" width="40" height="40"/>  
-<img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" alt="aws" width="40" height="40"/>  
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" alt="excel" width="40" height="40"/>  
-</p>
-
----
-
