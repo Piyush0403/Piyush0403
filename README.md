@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7B9CF7&width=435&lines=Hi%2C+I'm+Piyush+Gautam;Business+Analyst+%7C+Data+Analyst+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7B9CF7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Piyush+Gautam;Business+Analyst+%7C+Data+Analyst+)](https://git.io/typing-svg)
 
 # 👋 Hi, I'm Piyush Gautam  
 ### Business Analytics Enthusiast | Software Engineer | Data-Driven Problem Solver
